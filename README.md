@@ -1,6 +1,6 @@
 # Gitcoin
  
-An ERC-20 token implementation of (Ethereum)[https://ethereum.org/en/] , created using templates from the [ConsenSys Project](https://github.com/ConsenSys/Tokens) repository. Deployed on the Rinkeby testnet. 
+An ERC-20 token implementation of [Ethereum](https://ethereum.org/en/) , created using templates from the [ConsenSys Project](https://github.com/ConsenSys/Tokens) repository. Deployed on the Rinkeby testnet. 
 
 ## Contract Address 
 `0xd7d1b58600DCc9C5ddab84878E99673fE8765F8E`
